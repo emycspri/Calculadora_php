@@ -1,0 +1,19 @@
+    body{
+        background-color: #E1A2B7;
+    }
+    form{
+        text-align: center;
+        font-size: 170%;
+        margin-top: 20%;
+        color: 	#a64d79;
+    }
+    div{
+        text-align: center;
+        font-size: 160%;  
+        color: #a64d79;
+    }
+    input{
+        font-size: 60%;
+        color: 	#a64d79;
+        border-style: solid;
+    }
